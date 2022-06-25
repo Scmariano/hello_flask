@@ -1,5 +1,4 @@
-from ast import Div
-from tkinter.ttk import Style
+
 from flask import Flask, render_template  
 app = Flask(__name__)    
 
